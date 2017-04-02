@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import LoginControl from './LoginControl.react';
 import SendItUpTest from './sendituptest.react';
 import Header from './header.react';
+import Footer from './footer.react';
 
 class Layout extends Component {
 
@@ -44,6 +45,7 @@ class Layout extends Component {
 				<footer>
 					some footer stuff
 				</footer>
+                <Footer />
 
 			</div>
 		);
