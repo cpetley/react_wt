@@ -1,0 +1,37 @@
+.narrationcontainer {
+  display: flex;
+  align-items: center; }
+
+.detailimg {
+  max-height: 100%;
+  max-width: 100%;
+  border-radius: 20px; }
+
+.updoffset {
+  padding-top: 15px;
+  padding-bottom: 15px; }
+
+.rcorners {
+  border-radius: 40px; }
+
+.desknarrationimg {
+  vertical-align: middle; }
+
+.vcenter {
+  vertical-align: middle; }
+
+.hgh {
+  background-color: lime; }
+
+.frigshadow {
+  background: linear-gradient(top, rgba(0, 0, 0, 0.8), transparent 100%, transparent);
+  min-width: 100%;
+  z-index: 20; }
+
+.fsfrigshadow {
+  background: linear-gradient(top, rgba(0, 0, 0, 0.8), transparent 100%, transparent);
+  min-width: 100%;
+  z-index: 20; }
+
+.minheight {
+  min-height: 10px; }
